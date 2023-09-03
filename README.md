@@ -31,6 +31,16 @@ With four ski resorts and **expansive terrain** to explore on snowshoes or cross
 |Tennis|Tennis helps us to Understand the sportsmanship|10|
 |Golf|Golf provides a stimulating mental challenge combined with a healthy walk in pleasant surroundings|10|
 
+---
+
+### Quotes by scientists
+>“I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."
+<br><br>
+*-Isaac Newton*
+
+>“The most important thing is to never stop questioning.”
+<br><br>
+*-Albert Einstein*
 
 
 
