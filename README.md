@@ -29,6 +29,7 @@ With four ski resorts and **expansive terrain** to explore on snowshoes or cross
 |Cricket|Cricket is a sociable sport,Help us to learn teamwork and sportsmanship|15|
 |Basketball|Basketball is a fast moving game that involves a lot of variety, including shooting, dribbling, passing, rebounding, defence and much more|12|
 |Tennis|Tennis helps us to Understand the sportsmanship|10|
+|Golf|Golf provides a stimulating mental challenge combined with a healthy walk in pleasant surroundings|10|
 
 
 
