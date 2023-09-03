@@ -18,7 +18,8 @@ With four ski resorts and **expansive terrain** to explore on snowshoes or cross
 * Raclette
 * Lobster Bisque
 * Chicken Enchiladas
- 
+
+[MyStats](MyStats.md")
 
 
 
