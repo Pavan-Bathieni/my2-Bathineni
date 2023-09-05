@@ -42,6 +42,26 @@ With four ski resorts and **expansive terrain** to explore on snowshoes or cross
 <br><br>
 *-Albert Einstein*
 
+---
+
+### Comments in CSS
+>What is the syntax for adding comments in CSS?
+
+https://stackoverflow.com/questions/2391223/what-is-the-syntax-for-adding-comments-in-css?r=SearchResults&s=3%7C109.3324
+
+```
+/*
+  This is a 
+  comment in CSS
+*/
+body {
+  font-family: system-ui;
+  font-size: 62.5%  /* 1em = 10px */
+  line-height: 1.4;
+}
+```
+https://css-tricks.com/snippets/css/comments-in-css/
+
 
 
 
