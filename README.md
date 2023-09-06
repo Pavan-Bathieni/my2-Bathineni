@@ -47,7 +47,7 @@ With four ski resorts and **expansive terrain** to explore on snowshoes or cross
 ### Comments in CSS
 >What is the syntax for adding comments in CSS?
 
-https://stackoverflow.com/questions/2391223/what-is-the-syntax-for-adding-comments-in-css?r=SearchResults&s=3%7C109.3324
+<https://stackoverflow.com/questions/2391223/what-is-the-syntax-for-adding-comments-in-css?r=SearchResults&s=3%7C109.3324>
 
 ```
 /*
@@ -60,7 +60,7 @@ body {
   line-height: 1.4;
 }
 ```
-https://css-tricks.com/snippets/css/comments-in-css/
+<https://css-tricks.com/snippets/css/comments-in-css/>
 
 
 
